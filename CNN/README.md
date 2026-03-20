@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-
 
 ---
 
-###  Dataset Description
+### Dataset Description
 
 The CIFAKE dataset is designed to distinguish between **real and AI-generated images** using computer vision techniques.
 
@@ -42,7 +42,7 @@ dataset/
  
 ---
 
-## 📊 Dataset Loading
+## Dataset Loading
 
 The dataset was loaded using Keras `ImageDataGenerator`, which automatically detects classes and organizes images.
 
@@ -58,7 +58,7 @@ The dataset was loaded using Keras `ImageDataGenerator`, which automatically det
 
 ---
 
-###  Output
+### Output
 
 Found 100000 images belonging to 2 classes.
 Found 20000 images belonging to 2 classes.
@@ -79,7 +79,7 @@ The CIFAKE dataset is designed to address the growing challenge of distinguishin
 
 ---
 
-###  Challenges in the Dataset
+### Challenges in the Dataset
 
 - **High Visual Similarity:**  
   AI-generated images closely resemble real images  
