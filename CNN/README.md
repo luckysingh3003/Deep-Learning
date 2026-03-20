@@ -32,6 +32,7 @@ The CIFAKE dataset is designed to distinguish between **real and AI-generated im
 The dataset is divided into two main classes:
 
 dataset/
+
 │
 
 ├── REAL/
