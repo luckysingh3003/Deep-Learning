@@ -33,7 +33,9 @@ The dataset is divided into two main classes:
 
 dataset/
 │
+
 ├── REAL/
+
 ├── FAKE/
 
  
